@@ -1,3 +1,3 @@
-module gihub.com/markadc/gopy
+module github.com/markadc/gopy
 
 go 1.23.3
